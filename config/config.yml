@@ -1,0 +1,13 @@
+brand_website: https://www.buywow.in/
+competitor_website: https://mamaearth.in/
+Industry: Beauty and personal Care
+locations:
+  - Mumbai
+  - Delhi
+  - Bangalore
+  - Hyderabad
+budgets:
+  shopping_ads: 5000
+  search_ads: 8000
+  pmax_ads: 10000
+conversion_rate: 0.02  # 2%
