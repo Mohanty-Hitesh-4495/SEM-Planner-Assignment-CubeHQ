@@ -1,4 +1,3 @@
-# modules/scraper.py
 from playwright.sync_api import sync_playwright
 from urllib.parse import urljoin, urlparse
 
